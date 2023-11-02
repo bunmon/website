@@ -1,2 +1,2 @@
-# website
-Static files for https://bunmon.dev
+# Website
+Static files for https://bunmon.dev 🌐
